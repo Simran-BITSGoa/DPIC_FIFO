@@ -83,14 +83,4 @@ vsim -c -sv_lib ./hello -do "run -all" testbench
 - Implement a variable-length packet system.
 - Improve testbench for automated verification.
 
----
-
-## Author
-
-**Manvendra **
-
----
-
-Happy coding! ??
-
 
